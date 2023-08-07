@@ -8,3 +8,4 @@
 1. Video Editing in Premiere Pro and Davinci Resolve 
 2. Photo Editing in Photoshop
 3. Using R & Google Sheets
+
