@@ -44,11 +44,11 @@ _Question: Compute the percentage change in the costs of attendance for off-camp
 
 ![Image 8-7-23 at 8 07 PM](https://github.com/kikidebruijne/j21-project/assets/140004293/c935b5b3-43ef-4228-b8d5-9b4697efad01)
 
-Average Increase In-State Costs of Attendance:<br />
-![Image 8-7-23 at 8 08 PM](https://github.com/kikidebruijne/j21-project/assets/140004293/87501137-d9ff-432b-98b0-759d11c5b1a5)
+**Average Increase In-State Costs of Attendance:** <br />
+23.14%
 
-Average Increase Out-State Costs of Attendance:<br />
-![Image 8-7-23 at 8 09 PM](https://github.com/kikidebruijne/j21-project/assets/140004293/1b5e1690-535f-41bf-b79d-0434195a6b9a)
+**Average Increase Out-State Costs of Attendance:** <br />
+24.20%
 
 ### Sheet Used: Costs_of_attendance_by_university
 #### Data Analysis Process :
@@ -62,12 +62,14 @@ Average Increase Out-State Costs of Attendance:<br />
 
   _Question: Analyze the percentage change in each type of financial aid (grant/scholarships, pell grants, and federal student loans) at each university between the academic years 2013-14 and 2021-22.  What is the average trend in financial aid among all universities?_
 ![Image 8-7-23 at 8 12 PM](https://github.com/kikidebruijne/j21-project/assets/140004293/96f1af4b-74c6-45d3-b6e2-58683299a698)
-  Average Trend Financial Aid Received, Grants/Scholarships: <br />
-![Image 8-7-23 at 8 12 PM (1)](https://github.com/kikidebruijne/j21-project/assets/140004293/97325a2b-a134-4dbb-9abd-e995f47f7521) <br />
-  Average Trend Financial Aid Received, Pell Grants: <br />
-![Image 8-7-23 at 8 12 PM (2)](https://github.com/kikidebruijne/j21-project/assets/140004293/abb69ab6-2698-4fc6-8d1e-4113d8d1de98) <br />
-  Average Trend Financial Aid Received, Federal Student Loans: <br />
-![Image 8-7-23 at 8 12 PM (3)](https://github.com/kikidebruijne/j21-project/assets/140004293/793a83d6-5a4e-46dd-b6ae-accf2df97d92)
+**Average Trend Financial Aid Received, Grants/Scholarships:** <br />
+13.45% <br />
+
+**Average Trend Financial Aid Received, Pell Grants:** <br />
+21.53% <br />
+
+**Average Trend Financial Aid Received, Federal Student Loans**: <br />
+-5.48%
 
 ### Sheet Used: Financial_aid_by_university 
 
@@ -86,16 +88,14 @@ Finally, selected all values for each column and looked at the average.
   _Question: Calculate the percentage change of the students receiving financial aid by University between 2013-14 and 2021-22 for all three types of financial aid._
 ![Image 8-7-23 at 10 10 PM](https://github.com/kikidebruijne/j21-project/assets/140004293/d2383889-c594-4a4b-8724-ccdf06b4e367)
 
-Average Trend Students Receiving Financial Aid, Grants/Scholarships:<br />
-![Image 8-7-23 at 10 10 PM (1)](https://github.com/kikidebruijne/j21-project/assets/140004293/1f25a884-106b-4ace-9942-7e9ec4d0a4e5)<br />
+**Average Trend Students Receiving Financial Aid, Grants/Scholarships:** <br />
+7.62%<br />
 
+**Average Trend Students Receiving Financial Aid, Pell Grants:** <br />
+-9.28%<br />
 
-Average Trend Students Receiving Financial Aid, Pell Grants:<br />
-![Image 8-7-23 at 10 10 PM (2)](https://github.com/kikidebruijne/j21-project/assets/140004293/5d0d0cdd-638f-4fe7-8045-d7d62d332b2a)<br />
-
-
-Average Trend Students Receiving Financial Aid, Federal Student Loans:<br />
-![Image 8-7-23 at 10 10 PM (3)](https://github.com/kikidebruijne/j21-project/assets/140004293/129e3e84-6732-4d3e-bedd-822c8dd2f57b)<br />
+**Average Trend Students Receiving Financial Aid, Federal Student Loans:** <br />
+-48.24% <br />
 
 
 ### Sheets Used: Financial_aid_by_university & Financial_aid_receiving_students
