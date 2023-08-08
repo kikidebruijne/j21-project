@@ -42,15 +42,45 @@
  
 _Question: Compute the percentage change in the costs of attendance for off-campus, in-state, and off-campus, out-of-state students at all universities between the academic years 2013-14 and 2022-23._
 
-![Uploading 0F1EB1A3-5965-43E3-A1FC-05737F4AAB3B_1_105_c.jpeg…]()
+![Image 8-7-23 at 8 07 PM](https://github.com/kikidebruijne/j21-project/assets/140004293/c935b5b3-43ef-4228-b8d5-9b4697efad01)
+
+Average Increase In-State Costs of Attendance:
+![Image 8-7-23 at 8 08 PM](https://github.com/kikidebruijne/j21-project/assets/140004293/87501137-d9ff-432b-98b0-759d11c5b1a5)
+
+Average Increase Out-State Costs of Attendance:
+![Image 8-7-23 at 8 09 PM](https://github.com/kikidebruijne/j21-project/assets/140004293/1b5e1690-535f-41bf-b79d-0434195a6b9a)
+
+### Sheet Used: Costs_of_attendance_by_university
+#### Data Analysis Process :
+1. Created two new columns to show the percentage change in IN-state and OUT-of-state costs of attendance between 2013-14 and 2022-23.
+2. Using the unique letters of the columns (E and F), I calculated the percentage difference between school years 2013-14 and 2022-23: (=E11/E2/E2). 
+3. The formula was applied to all rows for both columns; the rows which did not represent needed percentages for this dataset were deleted, and the percent icon (%) in the upper left corner was selected to make the values percentages.
+4. Then, I created a pivot table to show you the percent changes in a more clear overview; I added “University” to Rows and the Percent Changes to Values, after which I selected SUM.
+5. Finally, selected the values for each column and looked at the average.
+
+### Analysis 2: Change in Percentage of Average Amount of Financial Aid Received per Student By University
+
+  _Question: Analyze the percentage change in each type of financial aid (grant/scholarships, pell grants, and federal student loans) at each university between the academic years 2013-14 and 2021-22.  What is the average trend in financial aid among all universities?_
+![Image 8-7-23 at 8 12 PM](https://github.com/kikidebruijne/j21-project/assets/140004293/96f1af4b-74c6-45d3-b6e2-58683299a698)
+  Average Trend Financial Aid Received, Grants/Scholarships:
+![Image 8-7-23 at 8 12 PM (1)](https://github.com/kikidebruijne/j21-project/assets/140004293/97325a2b-a134-4dbb-9abd-e995f47f7521)
+  Average Trend Financial Aid Received, Pell Grants:
+![Image 8-7-23 at 8 12 PM (2)](https://github.com/kikidebruijne/j21-project/assets/140004293/abb69ab6-2698-4fc6-8d1e-4113d8d1de98)
+  Average Trend Financial Aid Received, Federal Student Loans:
+![Image 8-7-23 at 8 12 PM (3)](https://github.com/kikidebruijne/j21-project/assets/140004293/793a83d6-5a4e-46dd-b6ae-accf2df97d92)
+
+### Sheet Used: Financial_aid_by_university 
+
+#### Data Analysis Process :
+
+1. Created a sheet that included the school years, universities, and their average amount of financial aid received and the number of people (and % of student population) who received financial aid for all three types (1) grant/scholarships, (2) pell grants, and (3) federal student loans. This was 8 columns in total.
+2. Created 3 new columns to show the percent change of the average amount of financial aid received.
+3. Calculated percent change (between 2013-14 & 2021-22) using formula =(D10-D2)/D2. 
+4. For the formulas, used the unique letters of the columns (D, F, and H), and applied the formulas to all the rows. 
+5. Selected the Percent Icon (%) to all columns. Now I have the percent change of the average amount of financial aid received.
+6. Created a pivot table and added University to Rows and Percent Changes to Values.
+Finally, selected all values for each column and looked at the average.
 
 
 
-![Kiki](https://github.com/kikidebruijne/j21-project/assets/140004293/f9a7b3a7-012f-46ea-8062-981dcf64e5e9)
-
-
-## *Skills*
-1. Video Editing in Premiere Pro and Davinci Resolve 
-2. Photo Editing in Photoshop
-3. Using R & Google Sheets
 
