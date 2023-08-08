@@ -8,7 +8,7 @@
   I wanted to gather information about the increasing financial burden on students due to high tuition fees and living costs in college. This collection of data examines college fees and financial aid trends at 13 universities in California, along with the changes in household income in the state. All but one of these universities could be analyzed; that is, the University of California, San Francisco. The colleges analyzed in alphabetical order:
 
 1. UC Berkeley 
-2. UC Davis
+2. UC Davis 
 3. UC Irvine
 4. UCLA
 5. UC Merced
