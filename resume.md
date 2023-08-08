@@ -4,7 +4,7 @@
 
   Despite the median annual household income and financial aid seeing some improvement, the expanding affordability gap has left numerous students burdened with overwhelming student loan debts. In order to preserve accessibility to knowledge for countless individuals, policymakers and educators must take prompt and decisive action to ensure that higher education remains within reach for all and does not become an unattainable aspiration.
 
-## Data Analysis Process
+## Data Analysis Process 
   I wanted to gather information about the increasing financial burden on students due to high tuition fees and living costs in college. This collection of data examines college fees and financial aid trends at 13 universities in California, along with the changes in household income in the state. All but one of these universities could be analyzed; that is, the University of California, San Francisco. The colleges analyzed in alphabetical order:
 
 1. UC Berkeley 
