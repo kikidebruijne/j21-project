@@ -24,12 +24,19 @@
   As I looked at the data, I noticed that college expenses are getting more expensive, making it harder for students to afford education. Through this research, I hope to raise awareness about this issue and encourage action to make college more affordable for students in California.
 
 ## Scope of Analysis
-1. Compute the percentage change in the costs of attendance for off-campus, in-state, and off-campus, out-of-state students at all universities between the academic years 2013-14 and 2022-23. What is the average increase in costs of attendance among all universities?
-2. Analyze the percentage change in each type of financial aid (grant/scholarships, Pell grants, and federal student loans) at each university between the academic years 2013-14 and 2021-22
-3. Calculate the percent change of the percent of Students receiving financial aid by University between 2013-14 and 2021-22, also for all three types of financial aid.
-4. Find the average increase of annual household income in the State of california across 2013-2021 and compare it to the average increase of costs of attendance of all universities together. What is the difference between both percentages?
-5. During the period from 2013 to 2023, identify the top 5 universities with the most significant increase in costs of attendance and examine the corresponding increases in financial aid offered at each of these universities.
-6. What the costs of attendance for the school years 2021-22 and 2022-23 for these universities are. For the year 2021-22, how much percent does the costs of attendance cover the median annual household income of that year?
+1. **Percent Change For The Costs of Attendance (Off-Campus) by University (Tuition Fees and Living Expenses), for Both Out-state and In-state students.**
+    - _Compute the percentage change in the costs of attendance for off-campus, in-state, and off-campus, out-of-state students at all universities between the academic years 2013-14 and 2022-23. What is the average increase in costs of attendance among all universities?_
+2. **Change in Percentage of Average Amount of Financial Aid Received per Student By University.**
+    - _Analyze the percentage change in each type of financial aid (grant/scholarships, Pell grants, and federal student loans) at each university between the academic years 2013-14 and 2021-22._
+3. **Change in Percentage of Students Receiving Financial Aid By University**
+    - _Calculate the percent change of the percent of Students receiving financial aid by University between 2013-14 and 2021-22, also for all three types of financial aid._
+4. **Average Increase of Annual Household Income in the State of California**
+    - _Find the average increase of annual household income in the State of california across 2013-2021 and compare it to the average increase of costs of attendance of all universities together. What is the difference between both percentages?_
+6. **Top 5 Universities with Highest Increase in Costs of Attendance and Their Accompanied Trends in Financial Aid.**
+    - _During the period from 2013 to 2023, identify the top 5 universities with the most significant increase in costs of attendance and examine the corresponding increases in financial aid offered at each of these universities._
+7. **The Cost of Attendance For the Top 5 Universities With the Highest Increases in 2021-22 and 2022-23.**
+    - What the costs of attendance for the school years 2021-22 and 2022-23 for these universities are. For the year 2021-22, how much percent does the costs of attendance cover the median annual household income of that year?
+      
 
 ### Analysis 1: Percent Change For The Costs of Attendance (Off-Campus) by University (Tuition Fees and Living Expenses), for Both Out-state and In-state students.
  
