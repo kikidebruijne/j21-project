@@ -187,3 +187,8 @@ Finally, selected all values for each column and looked at the average.
 1) [Costs of Attendance California, Off Campus](https://www.datawrapper.de/_/Sy5NY/)
    
 ![Image 8-8-23 at 11 09 AM](https://github.com/kikidebruijne/j21-project/assets/140004293/13c91c8f-2e88-4d77-ba12-8f3469b9a643)
+
+2) [Median Annual Household Income spent on Costs of Attendance](https://www.datawrapper.de/_/YEgMx/)
+
+![Image 8-8-23 at 3 19 PM](https://github.com/kikidebruijne/j21-project/assets/140004293/ae0935ae-6ad1-46f9-b2c9-8c6694c7525d)
+
