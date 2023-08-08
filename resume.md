@@ -181,4 +181,5 @@ Average Trend Students Receiving Financial Aid, Federal Student Loans:<br />
 
 
 ## Data Visualization
-
+1) [Costs of Attendance California, Off Campus](https://www.datawrapper.de/_/Sy5NY/)
+![Image 8-8-23 at 11 09 AM](https://github.com/kikidebruijne/j21-project/assets/140004293/13c91c8f-2e88-4d77-ba12-8f3469b9a643)
