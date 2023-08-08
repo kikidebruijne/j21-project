@@ -32,7 +32,7 @@
 6. What the costs of attendance for the school years 2021-22 and 2022-23 for these universities are. For the year 2021-22, how much percent does the costs of attendance cover the median annual household income of that year?
 
 ### Analysis 1: Percent Change For The Costs of Attendance (Off-Campus) by University (Tuition Fees and Living Expenses), for Both Out-state and In-state students.
-
+ 
 _Question: Compute the percentage change in the costs of attendance for off-campus, in-state, and off-campus, out-of-state students at all universities between the academic years 2013-14 and 2022-23._
 
 
