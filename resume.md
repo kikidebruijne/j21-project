@@ -161,25 +161,29 @@ Finally, selected all values for each column and looked at the average.
 
 ### Potential Interview Contacts
 
-1. Lillian Kimbell
-    - Contact information: phone number: 818-248-2925
+1. **Lillian Kimbell**
+    - _Contact information: phone number: 818-248-2925_
     - Work Position: Legal Counsel and Business Manager of the Center for the Study of Democratic Institutions
       - Lillian Kimbell plays a significant role in the decision making processes behind college tuition fees’ increases concerning California State Universities. Including someone who is involved in the discussion and difficult decision-making processes concerning tuition fees could offer us a different, maybe more understanding perspective about the topic of the rising tuition fees. 
 
-2. Emma Kerr
-    - Contact information: ekerr@usnews.com
+2. **Emma Kerr**
+    - _Contact information: ekerr@usnews.com_
     - Work Position: Personal finance editor at U.S News.
       - In her specialized expertise in reporting on issues relating to educational finance and family finance, debt, spending, and so on, Emma could provide me and the reader with a deeper understanding of the topic of higher college tuition fees, as well as how financial aid and family income relate to this topic. By incorporating the views and knowledge of an expert in these topics, I can clarify my story as well as some important details that might be confusing to both myself and the reader. To make the story useful and engaging, Emma Kerr could also come with tips and tricks for both students and family to better deal with the increasing financial burden of paying for an education. 
 
 
 ### Additional Sources 
 
-- A dataset providing us with details of the division of attendance costs:
-  - It would be helpful to have an additional dataset that provides us with the details of where exactly the costs of attendance are going in order to better understand why tuition fees are increasing. This will allow us to identify where expenses are growing the most. Are housing costs the biggest contributor to increased attendance costs, or are professors and GSIs' expenses increasing? We will be able to understand exactly where the problem is most prevalent, and we will also be able to take action to limit the harmful effects of tuition increases.
-- A dataset providing us with the trends of college ratings 
+1. [Division Costs of Attendance](https://financialaid.berkeley.edu/how-aid-works/student-budgets-cost-of-attendance/)
+  - A dataset providing us with details of the division of attendance costs:
+    - It would be helpful to have an additional dataset that provides us with the details of where exactly the costs of attendance are going in order to better understand why tuition fees are increasing. This will allow us to identify where expenses are growing the most. Are housing costs the biggest contributor to increased attendance costs, or are professors and GSIs' expenses increasing? We will be able to understand exactly where the problem is most prevalent, and we will also be able to take action to limit the harmful effects of tuition increases.
+
+2. [Data Analysis of World University Ranking](https://rpubs.com/jdiaz50/234350)
+- A dataset providing us with the trends of college ratings)
   - The trends in college ratings will also help us understand and analyze the rises and falls in tuition costs. We can answer crucial questions such as whether colleges with the highest increases in tuition and living costs have also improved their college rankings.
 
 
 ## Data Visualization
 1) [Costs of Attendance California, Off Campus](https://www.datawrapper.de/_/Sy5NY/)
+   
 ![Image 8-8-23 at 11 09 AM](https://github.com/kikidebruijne/j21-project/assets/140004293/13c91c8f-2e88-4d77-ba12-8f3469b9a643)
