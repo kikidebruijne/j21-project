@@ -44,10 +44,10 @@ _Question: Compute the percentage change in the costs of attendance for off-camp
 
 ![Image 8-7-23 at 8 07 PM](https://github.com/kikidebruijne/j21-project/assets/140004293/c935b5b3-43ef-4228-b8d5-9b4697efad01)
 
-Average Increase In-State Costs of Attendance:
+Average Increase In-State Costs of Attendance:<br />
 ![Image 8-7-23 at 8 08 PM](https://github.com/kikidebruijne/j21-project/assets/140004293/87501137-d9ff-432b-98b0-759d11c5b1a5)
 
-Average Increase Out-State Costs of Attendance:
+Average Increase Out-State Costs of Attendance:<br />
 ![Image 8-7-23 at 8 09 PM](https://github.com/kikidebruijne/j21-project/assets/140004293/1b5e1690-535f-41bf-b79d-0434195a6b9a)
 
 ### Sheet Used: Costs_of_attendance_by_university
@@ -62,11 +62,11 @@ Average Increase Out-State Costs of Attendance:
 
   _Question: Analyze the percentage change in each type of financial aid (grant/scholarships, pell grants, and federal student loans) at each university between the academic years 2013-14 and 2021-22.  What is the average trend in financial aid among all universities?_
 ![Image 8-7-23 at 8 12 PM](https://github.com/kikidebruijne/j21-project/assets/140004293/96f1af4b-74c6-45d3-b6e2-58683299a698)
-  Average Trend Financial Aid Received, Grants/Scholarships:
-![Image 8-7-23 at 8 12 PM (1)](https://github.com/kikidebruijne/j21-project/assets/140004293/97325a2b-a134-4dbb-9abd-e995f47f7521)
-  Average Trend Financial Aid Received, Pell Grants:
-![Image 8-7-23 at 8 12 PM (2)](https://github.com/kikidebruijne/j21-project/assets/140004293/abb69ab6-2698-4fc6-8d1e-4113d8d1de98)
-  Average Trend Financial Aid Received, Federal Student Loans:
+  Average Trend Financial Aid Received, Grants/Scholarships: <br />
+![Image 8-7-23 at 8 12 PM (1)](https://github.com/kikidebruijne/j21-project/assets/140004293/97325a2b-a134-4dbb-9abd-e995f47f7521) <br />
+  Average Trend Financial Aid Received, Pell Grants: <br />
+![Image 8-7-23 at 8 12 PM (2)](https://github.com/kikidebruijne/j21-project/assets/140004293/abb69ab6-2698-4fc6-8d1e-4113d8d1de98) <br />
+  Average Trend Financial Aid Received, Federal Student Loans: <br />
 ![Image 8-7-23 at 8 12 PM (3)](https://github.com/kikidebruijne/j21-project/assets/140004293/793a83d6-5a4e-46dd-b6ae-accf2df97d92)
 
 ### Sheet Used: Financial_aid_by_university 
@@ -81,6 +81,104 @@ Average Increase Out-State Costs of Attendance:
 6. Created a pivot table and added University to Rows and Percent Changes to Values.
 Finally, selected all values for each column and looked at the average.
 
+### Analysis 3: Change in Percentage of Students Receiving Financial Aid By University
+
+  _Question: Calculate the percentage change of the students receiving financial aid by University between 2013-14 and 2021-22 for all three types of financial aid._
+![Image 8-7-23 at 10 10 PM](https://github.com/kikidebruijne/j21-project/assets/140004293/d2383889-c594-4a4b-8724-ccdf06b4e367)
+
+Average Trend Students Receiving Financial Aid, Grants/Scholarships:<br />
+![Image 8-7-23 at 10 10 PM (1)](https://github.com/kikidebruijne/j21-project/assets/140004293/1f25a884-106b-4ace-9942-7e9ec4d0a4e5)<br />
 
 
+Average Trend Students Receiving Financial Aid, Pell Grants:<br />
+![Image 8-7-23 at 10 10 PM (2)](https://github.com/kikidebruijne/j21-project/assets/140004293/5d0d0cdd-638f-4fe7-8045-d7d62d332b2a)<br />
+
+
+Average Trend Students Receiving Financial Aid, Federal Student Loans:<br />
+![Image 8-7-23 at 10 10 PM (3)](https://github.com/kikidebruijne/j21-project/assets/140004293/129e3e84-6732-4d3e-bedd-822c8dd2f57b)<br />
+
+
+### Sheets Used: Financial_aid_by_university & Financial_aid_receiving_students
+
+#### Data Analysis Process :
+
+1. The 3 columns of the dataset showing the number of students receiving financial aid both display the exact numbers and percentages (see image below):
+    - ![Image 8-7-23 at 10 11 PM](https://github.com/kikidebruijne/j21-project/assets/140004293/85a0dfc1-4c65-4bc4-8155-2554e1e4e46e)
+
+2. To simplify the calculation, I decided to only look at the percent of students receiving financial aid by university. 
+3. Created 3 new columns and applied the formula =RIGHT(C2,5) to only display the percent of students receiving financial aid.
+    - ![Image 8-7-23 at 10 12 PM](https://github.com/kikidebruijne/j21-project/assets/140004293/74faefe8-7870-4670-ae79-b0c5a8cbfa2b)
+4. Created a new sheet called “Financial_aid_receiving_students” and copied and special pasted the percent values. Then calculated the percent changes between years 2013-14 and 2021-22 using the formula =(C10-C2)/C2
+5. Lastly created a pivot table to create a clear overview of the change in percentages by university. University was added to Rows and the change in percentage for students receiving grants/scholarships, pell grants, and federal student loans was added to Values.
+
+### Analysis 4: Average Increase of Annual Household Income in the State of California
+  _Question: Find the average increase of annual household income in the State of california across 2013-2021._
+![Image 8-7-23 at 10 15 PM](https://github.com/kikidebruijne/j21-project/assets/140004293/7b2aa2b9-5250-4b48-974e-e262ee1e6485)
+
+### Sheets Used: Median Household Income
+
+#### Data Analysis Process :
+
+1. Looked at median household income of the years 2013 and 2021
+![Image 8-7-23 at 10 15 PM (1)](https://github.com/kikidebruijne/j21-project/assets/140004293/6afb21ac-10c4-4972-af0f-e8db5a017ddf)
+2. Calculated the percentage increase in median household income with the formula =(B39-B31)/B31, after which I selected the percentage icon in the upper left corner to convert the number into percentages.
+
+### Analysis 5: Top 5 Universities with Highest Increase in Costs of Attendance and Their Accompanied Trends in Financial Aid.
+
+  _Question: During the period from 2013 to 2023, identify the top 5 universities with the most significant increase in costs of attendance and examine the corresponding increases in financial aid offered at each of these universities._
+![Image 8-7-23 at 10 23 PM](https://github.com/kikidebruijne/j21-project/assets/140004293/96ea7073-3ab4-42eb-9e01-3cbe688e4f8c)
+![Image 8-7-23 at 10 23 PM (1)](https://github.com/kikidebruijne/j21-project/assets/140004293/2493e90a-d66f-4f1b-b02e-3c240c1b0785)
+
+### Sheet Used: Costs_of_attendance_by_university & Financial_aid_receiving_students
+
+#### Data Analysis Process :
+
+1. Used pivot table showing the change in percentage of costs of attendance by university. Copied the values and special pasted them into a new sheet called “Percentage_change_costs_of_attendance”.
+    - ![Image 8-7-23 at 10 23 PM 2](https://github.com/kikidebruijne/j21-project/assets/140004293/04d58c17-6fb5-434b-951d-46c8ff2ed207)
+2. Created a new column and combined the change in percentages of In-state and Out-state costs of attendance by using the formula =(B2+C2)/2. 
+3. Selected the new column and sorted sheet from Z to A, leaving highest percentages at the top, and lowest percentages at the bottom. Screenshotted top 5.
+4. Then created a new pivot table from the Financial_aid_by_university sheet; added university to Values and changes in percentages per financial aid to values.
+5. Created a filter and selected top 5 universities.
+
+### Analysis 6: The Cost of Attendance For the Top 5 Universities With the Highest Increases in 2021-22 and 2022-23.
+
+  _Question: what the costs of attendance for the school years 2021-22 and 2022-23 for these universities are. For the year 2021-22, how much percent does the costs of attendance cover the median annual household income of that year?_
+![Image 8-7-23 at 10 28 PM](https://github.com/kikidebruijne/j21-project/assets/140004293/b49a0e4b-269c-486f-84a2-0f99375ec5ad)
+![Image 8-7-23 at 10 28 PM 2](https://github.com/kikidebruijne/j21-project/assets/140004293/8bf3b3b2-9c3b-4d1e-b599-71c1c77a69c7)
+
+### Sheet Used: Costs_of_attendance_by_university & Median_Household_Income_California
+
+#### Data Analysis Process :
+
+1. Created a pivot table and added Universities and Years to Rows and average costs of attendance to Values. 
+2. Created filter, selected top 5 schools
+3. Copy pasted the schools into a new sheet and deleted all years but 2021-2022 and 2022-23 from the sheet.
+4. Then, to calculate how much percent the costs of attendance cover the median annual household income for 2021-22, I filtered out the year 2021-22 and copy special pasted it into a new spreadsheet, where I also added a new column with the median household income of the year 2021:
+    - ![Image 8-7-23 at 10 29 PM](https://github.com/kikidebruijne/j21-project/assets/140004293/941e999b-82e8-474d-969c-b698b7e458d0)
+5. Finally, I created a formula to calculate how much percent the costs of attendance, both out-state and in-state: =(C2/E2) and selected the percentage icon to convert the numbers into percentages.
+
+## Sourcing 
+
+### Potential Interview Contacts
+
+1. Lillian Kimbell
+    - Contact information: phone number: 818-248-2925
+    - Work Position: Legal Counsel and Business Manager of the Center for the Study of Democratic Institutions
+      - Lillian Kimbell plays a significant role in the decision making processes behind college tuition fees’ increases concerning California State Universities. Including someone who is involved in the discussion and difficult decision-making processes concerning tuition fees could offer us a different, maybe more understanding perspective about the topic of the rising tuition fees. 
+
+2. Emma Kerr
+    - Contact information: ekerr@usnews.com
+    - Work Position: Personal finance editor at U.S News.
+      - In her specialized expertise in reporting on issues relating to educational finance and family finance, debt, spending, and so on, Emma could provide me and the reader with a deeper understanding of the topic of higher college tuition fees, as well as how financial aid and family income relate to this topic. By incorporating the views and knowledge of an expert in these topics, I can clarify my story as well as some important details that might be confusing to both myself and the reader. To make the story useful and engaging, Emma Kerr could also come with tips and tricks for both students and family to better deal with the increasing financial burden of paying for an education. 
+
+
+### Additional Sources 
+
+- A dataset providing us with details of the division of attendance costs:
+  - It would be helpful to have an additional dataset that provides us with the details of where exactly the costs of attendance are going in order to better understand why tuition fees are increasing. This will allow us to identify where expenses are growing the most. Are housing costs the biggest contributor to increased attendance costs, or are professors and GSIs' expenses increasing? We will be able to understand exactly where the problem is most prevalent, and we will also be able to take action to limit the harmful effects of tuition increases.
+- A dataset providing us with the trends of college ratings 
+  - The trends in college ratings will also help us understand and analyze the rises and falls in tuition costs. We can answer crucial questions such as whether colleges with the highest increases in tuition and living costs have also improved their college rankings.
+
+
+## Data Visualization
 
