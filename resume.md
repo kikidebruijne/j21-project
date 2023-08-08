@@ -42,6 +42,8 @@
  
 _Question: Compute the percentage change in the costs of attendance for off-campus, in-state, and off-campus, out-of-state students at all universities between the academic years 2013-14 and 2022-23._
 
+![Uploading 0F1EB1A3-5965-43E3-A1FC-05737F4AAB3B_1_105_c.jpeg…]()
+
 
 
 ![Kiki](https://github.com/kikidebruijne/j21-project/assets/140004293/f9a7b3a7-012f-46ea-8062-981dcf64e5e9)
