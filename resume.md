@@ -1,4 +1,4 @@
-# Statistical Pitch: The Burden of California's Rising Education Costs
+# Statistical Pitch: The Burden of California's Rising Education Costs 
 ## Story Summary 
   In recent decades, American universities have witnessed a steady surge in their tuition fees, rendering them increasingly unaffordable for potential students. The average expenses across all universities saw a substantial increase from 2013 to 2023, far outpacing the growth in financial aid availability. Consequently, the soaring costs of attendance have reached a point where they appear unrealistic when compared to the annual household income in California, as evident from the data.
 
