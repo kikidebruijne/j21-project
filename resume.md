@@ -1,11 +1,11 @@
 # Statistical Pitch: The Burden of California's Rising Education Costs 
 ## Story Summary 
-  In recent decades, American universities have witnessed a steady surge in their tuition fees, rendering them increasingly unaffordable for potential students. The average expenses across all universities saw a substantial increase from 2013 to 2023, far outpacing the growth in financial aid availability. Consequently, the soaring costs of attendance have reached a point where they appear unrealistic when compared to the annual household income in California, as evident from the data.
+  In recent decades, American universities have witnessed a steady surge in tuition fees, rendering them increasingly unaffordable for potential students. The average expenses across all universities substantially increased from 2013 to 2023, far outpacing the growth in available financial aid. Consequently, the soaring costs of attendance have reached a point where they appear unrealistic when compared to the annual household income in California, as evident from the data.
 
   Despite the median annual household income and financial aid seeing some improvement, the expanding affordability gap has left numerous students burdened with overwhelming student loan debts. In order to preserve accessibility to knowledge for countless individuals, policymakers and educators must take prompt and decisive action to ensure that higher education remains within reach for all and does not become an unattainable aspiration.
 
 ## Data Analysis Process 
-  I wanted to gather information about the increasing financial burden on students due to high tuition fees and living costs in college. This collection of data examines college fees and financial aid trends at 13 universities in California, along with the changes in household income in the state. All but one of these universities could be analyzed; that is, the University of California, San Francisco. The colleges analyzed in alphabetical order:
+  My goal was to gather information about the increasing financial burden on students due to high tuition fees and living costs in college. This collection of data examines college fees and financial aid trends at 13 universities in California, along with the changes in household income in the state. All the universities except one could be analyzed, which is the University of California, San Francisco. The colleges analyzed in alphabetical order:
 
 1. UC Berkeley 
 2. UC Davis 
@@ -21,14 +21,14 @@
 12. California State University, Sacramento 
 13. California State University, San Marcos
 
-  As I looked at the data, I noticed that college expenses are getting more expensive, making it harder for students to afford education. Through this research, I hope to raise awareness about this issue and encourage action to make college more affordable for students in California.
+  As I analyzed the data, I observed college expenses are getting more expensive, making it harder for students to afford college and a high quality education. Through this research, I aim to raise awareness about this issue and encourage actions to make college more affordable for students in California.
 
 ## Scope of Analysis
-1. **Percent Change For The Costs of Attendance (Off-Campus) by University (Tuition Fees and Living Expenses), for Both Out-state and In-state students.**
+1. **Percentage Change For Off-Campus Costs of Attendance by University (Tuition Fees and Living Expenses), for Both Out-of-state and In-state students.**
     - _Compute the percentage change in the costs of attendance for off-campus, in-state, and off-campus, out-of-state students at all universities between the academic years 2013-14 and 2022-23. What is the average increase in costs of attendance among all universities?_
 2. **Change in Percentage of Average Amount of Financial Aid Received per Student By University.**
     - _Analyze the percentage change in each type of financial aid (grant/scholarships, Pell grants, and federal student loans) at each university between the academic years 2013-14 and 2021-22._
-3. **Change in Percentage of Students Receiving Financial Aid By University**
+3. **Change in Percentage in the Count of Students Receiving Financial Aid Across University**
     - _Calculate the percent change of the percent of Students receiving financial aid by University between 2013-14 and 2021-22, also for all three types of financial aid._
 4. **Average Increase of Annual Household Income in the State of California**
     - _Find the average increase of annual household income in the State of california across 2013-2021 and compare it to the average increase of costs of attendance of all universities together. What is the difference between both percentages?_
@@ -37,8 +37,7 @@
 7. **The Cost of Attendance For the Top 5 Universities With the Highest Increases in 2021-22 and 2022-23.**
     - What the costs of attendance for the school years 2021-22 and 2022-23 for these universities are. For the year 2021-22, how much percent does the costs of attendance cover the median annual household income of that year?
       
-
-### Analysis 1: Percent Change For The Costs of Attendance (Off-Campus) by University (Tuition Fees and Living Expenses), for Both Out-state and In-state students.
+### Analysis 1: Percentage Change For Off-Campus Costs of Attendance by University (Tuition Fees and Living Expenses), for Both Out-of-state and In-state students.
  
 _Question: Compute the percentage change in the costs of attendance for off-campus, in-state, and off-campus, out-of-state students at all universities between the academic years 2013-14 and 2022-23._
 
@@ -47,7 +46,7 @@ _Question: Compute the percentage change in the costs of attendance for off-camp
 **Average Increase In-State Costs of Attendance:** <br />
 23.14%
 
-**Average Increase Out-State Costs of Attendance:** <br />
+**Average Increase Out-of-State Costs of Attendance:** <br />
 24.20%
 
 ### Sheet Used: Costs_of_attendance_by_university
@@ -55,7 +54,7 @@ _Question: Compute the percentage change in the costs of attendance for off-camp
 1. Created two new columns to show the percentage change in IN-state and OUT-of-state costs of attendance between 2013-14 and 2022-23.
 2. Using the unique letters of the columns (E and F), I calculated the percentage difference between school years 2013-14 and 2022-23: (=E11/E2/E2). 
 3. The formula was applied to all rows for both columns; the rows which did not represent needed percentages for this dataset were deleted, and the percent icon (%) in the upper left corner was selected to make the values percentages.
-4. Then, I created a pivot table to show you the percent changes in a more clear overview; I added “University” to Rows and the Percent Changes to Values, after which I selected SUM.
+4. Then, created a pivot table to provide a clearer overview of the percentage changes; I added “University” to Rows and the Percent Changes to Values, after which I selected SUM.
 5. Finally, selected the values for each column and looked at the average.
 
 ### Analysis 2: Change in Percentage of Average Amount of Financial Aid Received per Student By University
@@ -76,14 +75,14 @@ _Question: Compute the percentage change in the costs of attendance for off-camp
 #### Data Analysis Process :
 
 1. Created a sheet that included the school years, universities, and their average amount of financial aid received and the number of people (and % of student population) who received financial aid for all three types (1) grant/scholarships, (2) pell grants, and (3) federal student loans. This was 8 columns in total.
-2. Created 3 new columns to show the percent change of the average amount of financial aid received.
-3. Calculated percent change (between 2013-14 & 2021-22) using formula =(D10-D2)/D2. 
+2. Created 3 new columns to show the percentage change of the average amount of financial aid received.
+3. Calculated the percentage change (between 2013-14 & 2021-22) using formula =(D10-D2)/D2. 
 4. For the formulas, used the unique letters of the columns (D, F, and H), and applied the formulas to all the rows. 
-5. Selected the Percent Icon (%) to all columns. Now I have the percent change of the average amount of financial aid received.
-6. Created a pivot table and added University to Rows and Percent Changes to Values.
-Finally, selected all values for each column and looked at the average.
+5. Selected the Percent Icon (%) to all columns. Now I possess the percentage alteration in the average amount of received financial aid.
+6. Created a pivot table and added University to Rows and Percentage Changes to Values.
+7. Finally, selected all values for each column and looked at the average.
 
-### Analysis 3: Change in Percentage of Students Receiving Financial Aid By University
+### Analysis 3: Change in Percentage of the Count of Students Receiving Financial Aid Across University
 
   _Question: Calculate the percentage change of the students receiving financial aid by University between 2013-14 and 2021-22 for all three types of financial aid._
 ![Image 8-7-23 at 10 10 PM](https://github.com/kikidebruijne/j21-project/assets/140004293/d2383889-c594-4a4b-8724-ccdf06b4e367)
@@ -102,14 +101,14 @@ Finally, selected all values for each column and looked at the average.
 
 #### Data Analysis Process :
 
-1. The 3 columns of the dataset showing the number of students receiving financial aid both display the exact numbers and percentages (see image below):
+1. The dataset includes three columns that present both the precise student counts receiving financial aid and their corresponding percentages (refer to the image below):
     - ![Image 8-7-23 at 10 11 PM](https://github.com/kikidebruijne/j21-project/assets/140004293/85a0dfc1-4c65-4bc4-8155-2554e1e4e46e)
 
-2. To simplify the calculation, I decided to only look at the percent of students receiving financial aid by university. 
-3. Created 3 new columns and applied the formula =RIGHT(C2,5) to only display the percent of students receiving financial aid.
+2. To simplify the calculation, I decided to focus solely on the percentage of students receiving financial aid for each university.
+3. Introduced three additional columns and utilized the formula =RIGHT(C2,5) to exclusively show the percentage of students receiving financial aid.
     - ![Image 8-7-23 at 10 12 PM](https://github.com/kikidebruijne/j21-project/assets/140004293/74faefe8-7870-4670-ae79-b0c5a8cbfa2b)
-4. Created a new sheet called “Financial_aid_receiving_students” and copied and special pasted the percent values. Then calculated the percent changes between years 2013-14 and 2021-22 using the formula =(C10-C2)/C2
-5. Lastly created a pivot table to create a clear overview of the change in percentages by university. University was added to Rows and the change in percentage for students receiving grants/scholarships, pell grants, and federal student loans was added to Values.
+4. Created a new sheet titled “Financial_aid_receiving_students”; then, copied and employed a special paste tehcnique for the percentage values; then, calculated the percentage changes between years 2013-14 and 2021-22 using the formula =(C10-C2)/C2
+5. Lastly, generated a pivot table to provide a clear summary of the changes in percentages by university. I included the "University" in the Rowssectiond and the variations in the percentage of students receiving grants/scholarships, pell grants, and federal student loans were included in the Values section.
 
 ### Analysis 4: Average Increase of Annual Household Income in the State of California
   _Question: Find the average increase of annual household income in the State of california across 2013-2021._
@@ -133,9 +132,9 @@ Finally, selected all values for each column and looked at the average.
 
 #### Data Analysis Process :
 
-1. Used pivot table showing the change in percentage of costs of attendance by university. Copied the values and special pasted them into a new sheet called “Percentage_change_costs_of_attendance”.
+1. Utilized a pivot table to illustrates the changes in percentage of costs of attendance by university. Subsequently, I duplicated the values and used a special paste function to transfer them into a freshly created sheet named "Percentage_change_costs_of_attendance."
     - ![Image 8-7-23 at 10 23 PM 2](https://github.com/kikidebruijne/j21-project/assets/140004293/04d58c17-6fb5-434b-951d-46c8ff2ed207)
-2. Created a new column and combined the change in percentages of In-state and Out-state costs of attendance by using the formula =(B2+C2)/2. 
+2. Created a new column and combined the change in percentages of In-state and Out-of-State costs of attendance by using the formula =(B2+C2)/2. 
 3. Selected the new column and sorted sheet from Z to A, leaving highest percentages at the top, and lowest percentages at the bottom. Screenshotted top 5.
 4. Then created a new pivot table from the Financial_aid_by_university sheet; added university to Values and changes in percentages per financial aid to values.
 5. Created a filter and selected top 5 universities.
@@ -155,11 +154,11 @@ Finally, selected all values for each column and looked at the average.
 3. Copy pasted the schools into a new sheet and deleted all years but 2021-2022 and 2022-23 from the sheet.
 4. Then, to calculate how much percent the costs of attendance cover the median annual household income for 2021-22, I filtered out the year 2021-22 and copy special pasted it into a new spreadsheet, where I also added a new column with the median household income of the year 2021:
     - ![Image 8-7-23 at 10 29 PM](https://github.com/kikidebruijne/j21-project/assets/140004293/941e999b-82e8-474d-969c-b698b7e458d0)
-5. Finally, I created a formula to calculate how much percent the costs of attendance, both out-state and in-state: =(C2/E2) and selected the percentage icon to convert the numbers into percentages.
+5. Finally, I created a formula to calculate how much percent the costs of attendance, both Out-of-State and in-state: =(C2/E2) and selected the percentage icon to convert the numbers into percentages.
 
 ## Sourcing 
 
-### Potential Interview Contacts
+### Potential Interview Contacts:
 
 1. **Lillian Kimbell**
     - _Contact information: phone number: 818-248-2925_
