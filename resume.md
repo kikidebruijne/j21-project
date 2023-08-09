@@ -2,10 +2,10 @@
 ## Story Summary 
   In recent decades, American universities have witnessed a steady surge in tuition fees, rendering them increasingly unaffordable for potential students. The average expenses across all universities substantially increased from 2013 to 2023, far outpacing the growth in available financial aid. Consequently, the soaring costs of attendance have reached a point where they appear unrealistic when compared to the annual household income in California, as evident from the data.
 
-  Despite the median annual household income and financial aid seeing some improvement, the expanding affordability gap has left numerous students burdened with overwhelming student loan debts. In order to preserve accessibility to knowledge for countless individuals, policymakers and educators must take prompt and decisive action to ensure that higher education remains within reach for all and does not become an unattainable aspiration.
+  Despite the median annual household income and financial aid seeing some improvement, the expanding affordability gap has left numerous students burdened with overwhelming student loan debts. In order to preserve the accessibility to knowledge for countless individuals, policymakers and educators must take prompt and decisive action to ensure that higher education remains within reach for all. 
 
 ## Data Analysis Process 
-  My goal was to gather information about the increasing financial burden on students due to high tuition fees and living costs in college. This collection of data examines college fees and financial aid trends at 13 universities in California, along with the changes in household income in the state. All the universities except one could be analyzed, which is the University of California, San Francisco. The colleges analyzed in alphabetical order:
+  My goal was to gather information about the increasing financial burden on students due to high tuition fees and living costs in college. This collection of data examines college fees and financial aid trends at 13 public universities in California, along with the changes in household income in the state. These are the colleges analyzed in alphabetical order:
 
 1. UC Berkeley 
 2. UC Davis 
@@ -21,7 +21,7 @@
 12. California State University, Sacramento 
 13. California State University, San Marcos
 
-  As I analyzed the data, I observed college expenses are getting more expensive, making it harder for students to afford college and a high quality education. Through this research, I aim to raise awareness about this issue and encourage actions to make college more affordable for students in California.
+  As I analyzed the data, I observed that college expenses are increasing, making it harder for students to afford college and a high quality education. Through this research, I aim to raise awareness about accessibility to higher education  and encourage actions to make college more affordable for students in California.
 
 ## Scope of Analysis
 1. **Percentage Change for Off-Campus Costs of Attendance by University (Tuition Fees and Living Expenses), for Both Out-of-state and In-state students.**
