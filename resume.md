@@ -24,7 +24,7 @@
   As I analyzed the data, I observed college expenses are getting more expensive, making it harder for students to afford college and a high quality education. Through this research, I aim to raise awareness about this issue and encourage actions to make college more affordable for students in California.
 
 ## Scope of Analysis
-1. **Percentage Change For Off-Campus Costs of Attendance by University (Tuition Fees and Living Expenses), for Both Out-of-state and In-state students.**
+1. **Percentage Change for Off-Campus Costs of Attendance by University (Tuition Fees and Living Expenses), for Both Out-of-state and In-state students.**
     - _Compute the percentage change in the costs of attendance for off-campus, in-state, and off-campus, out-of-state students at all universities between the academic years 2013-14 and 2022-23. What is the average increase in costs of attendance among all universities?_
 2. **Change in Percentage of Average Amount of Financial Aid Received per Student By University.**
     - _Analyze the percentage change in each type of financial aid (grant/scholarships, Pell grants, and federal student loans) at each university between the academic years 2013-14 and 2021-22._
