@@ -10,7 +10,7 @@
 1. UC Berkeley 
 2. UC Davis 
 3. UC Irvine
-4. UCLA
+4. UC Los Angeles 
 5. UC Merced
 6. UC Riverside
 7. UC San Diego
@@ -37,7 +37,7 @@
 7. **The Cost of Attendance For the Top 5 Universities With the Highest Increases in 2021-22 and 2022-23.**
     - What the costs of attendance for the school years 2021-22 and 2022-23 for these universities are. For the year 2021-22, how much percent does the costs of attendance cover the median annual household income of that year?
       
-### Analysis 1: Percentage Change For Off-Campus Costs of Attendance by University (Tuition Fees and Living Expenses), for Both Out-of-state and In-state students.
+### Analysis 1: Percentage Change for Off-Campus Costs of Attendance by University (Tuition Fees and Living Expenses), for Both Out-of-state and In-state students.
  
 _Question: Compute the percentage change in the costs of attendance for off-campus, in-state, and off-campus, out-of-state students at all universities between the academic years 2013-14 and 2022-23._
 
